@@ -1,0 +1,15 @@
+C:\Users\Damián\source\repos\proyecto\proyecto\bin\Debug\net6.0\proyecto.exe
+C:\Users\Damián\source\repos\proyecto\proyecto\bin\Debug\net6.0\proyecto.deps.json
+C:\Users\Damián\source\repos\proyecto\proyecto\bin\Debug\net6.0\proyecto.runtimeconfig.json
+C:\Users\Damián\source\repos\proyecto\proyecto\bin\Debug\net6.0\proyecto.dll
+C:\Users\Damián\source\repos\proyecto\proyecto\bin\Debug\net6.0\proyecto.pdb
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.csproj.AssemblyReference.cache
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.AssemblyInfoInputs.cache
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.AssemblyInfo.cs
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.dll
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\refint\proyecto.dll
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.pdb
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\proyecto.genruntimeconfig.cache
+C:\Users\Damián\source\repos\proyecto\proyecto\obj\Debug\net6.0\ref\proyecto.dll
